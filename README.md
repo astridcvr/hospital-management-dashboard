@@ -49,6 +49,11 @@ View the full repository here: [GitHub – Hospital Management Dashboard](https:
 ## View the Jupyter Notebook:
 [Open in nbviewer](https://nbviewer.org/github/astridcvr/hospital-management-dashboard/blob/main/Hospital_Management_Initial_Analysis.ipynb)
 
+## Dataset Source
+The dataset used in this project is fictional and publicly available on Kaggle:
+
+👉 [Hospital Management Dataset on Kaggle](https://www.kaggle.com/datasets/kanakbaghel/hospital-management-dataset)
+
 ---
 
 Created by **Astrid Villalobos**  

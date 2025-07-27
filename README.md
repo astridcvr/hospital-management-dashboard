@@ -7,7 +7,7 @@ This project analyzes a fictional hospital dataset to uncover patterns in patien
 - **Python**: Pandas, Seaborn, Jupyter Notebook
 - **Power BI**: Data modeling, KPIs, interactive dashboard
 - **Power Query & DAX**: Data transformation and calculations
-- **Git & GitHub**: Version control and project documentation
+- **Git & GitHub**: Version control and project documentation 
 
 ## Dataset Description
 The dataset simulates hospital operations over a year and includes:

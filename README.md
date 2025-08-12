@@ -43,6 +43,10 @@ The dataset simulates hospital operations over a year and includes:
 ## Executive Summary
 A concise document summarizing key insights, visuals, and recommendations. Suitable for non-technical stakeholders and business leaders. See `executive_summary.pdf`.
 
+## Dashboard Preview
+
+<img width="1423" height="788" alt="Hospital_Dataset_Dashboard_1" src="https://github.com/user-attachments/assets/7ea825d5-17d0-414a-8641-79da2d44812b" />
+
 ## Live Project
 View the full repository here: [GitHub – Hospital Management Dashboard](https://github.com/astridcvr/hospital-management-dashboard))
 
